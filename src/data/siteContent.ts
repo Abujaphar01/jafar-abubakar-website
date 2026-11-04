@@ -53,7 +53,7 @@ export const siteContent = {
     tagline: "Building intelligent technology that creates real-world value.",
     description:
       "Jafar Abubakar is an AI engineer and entrepreneur exploring how artificial intelligence, software engineering, and workflow automation can solve real-world problems, transform business operations, and build enduring technology companies.",
-    siteUrl: "https://jafarabubakar.com", // Update with your final production domain when deployed
+    siteUrl: "https://jafar-abubakar-website.vercel.app", // Production domain
     locale: "en_US",
   },
 
